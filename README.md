@@ -1,1 +1,0 @@
-Please publish whole page :(

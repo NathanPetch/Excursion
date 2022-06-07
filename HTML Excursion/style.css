@@ -1,0 +1,59 @@
+html {
+	background-color: black;
+	text-align: center;
+}
+
+header h1 {
+font-family: verdana, serif;
+font-weight: normal;
+font-size: 50px;
+color: white; 
+}
+
+.download-link {
+	color: aquamarine;
+	font-size: 16px;
+}
+
+.video {
+	padding: 25px;
+}
+
+.travel-guide h2 {
+	font-family: verdana;
+	color: white;
+	font-weight: 300;
+	font-size: 42;
+}
+
+.travel-guide p {
+	font-family: verdana;
+	font-size: 21px;
+	color: gray;
+}
+
+.image {
+	padding: 10px;
+}
+
+.end h2 {
+	font-family: verdana;
+	color: white;
+	font-weight: 300;
+	font-size: 42;
+}
+
+footer {
+	text-align: right;
+	color: gray;
+	transition: color 1s linear;
+	height: 50px;
+	top: 25px;
+}
+
+footer i {
+	padding-top: 25px;
+}
+footer:hover {
+	color: pink;
+}
